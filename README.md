@@ -14,5 +14,6 @@ For the general statistics, it can be seen that the mean and median are both qui
 
 ## Study Design: MechaCar vs Competition
 It is valuble to the consumer to understand the performance of MechaCar versus their competition when deciding on a financially significant purchase.   Due to the current rate of gas prices around the world, this is a strong impact on consumers these days.  In Canada and the northern United States, one must also evaluate efficiency changes in the cold months.  For family use and purchases, one must also consider the safety rating and performance-impact testing.  
-
+While a null hypothesis would assume that MechaCar is equivalent to the competition, the alternative would show that they are indeed the stronger alternative to competition.  If comparing MechaCar to all competition at once, a t-test might be suitable for comparing two groups.  If each competitor counted as a group, an ANOVA test may be more suitable.  This could work for an observation like horsepower or safety rating.
+For something more quantitative like litres of gas, one may opt for a test like logistic regression to see if the car can be placed in an "efficient" category or a less-so category.  In all cases, consumer reports data would be very helpful for those thinking about purchasing the new vehicles.  Manufacturer data would be invaluable but will not be accessable from competition companies.
 
